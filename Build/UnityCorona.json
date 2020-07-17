@@ -1,10 +1,10 @@
 {
-"companyName": "DefaultCompany",
-"productName": "FlockingTest",
+"companyName": "FlockEpidemic",
+"productName": "FlockEpidemic",
 "dataUrl": "UnityCorona.data.unityweb",
 "wasmCodeUrl": "UnityCorona.wasm.code.unityweb",
 "wasmFrameworkUrl": "UnityCorona.wasm.framework.unityweb",
-"TOTAL_MEMORY": 1073741824,
+"TOTAL_MEMORY": 2130706432,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
